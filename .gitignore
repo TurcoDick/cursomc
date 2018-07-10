@@ -1,0 +1,42 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+
+### cursomc Java Spring ###
+02-implementacao-de-modelo-conceitual.pdf
+03-operacoes-de-CRUD-e-casos-de-uso.pdf
+04-mysql-heroku.pdf
+arquivo.sql
+05-servico-de-email.pdf
+06-autenticacao-e-autorizacao.pdf
+07-imagens-com-amazon-s3.pdf
+
+### arquivo properties, onde ficam as senhas para o AWS
+cursomc/src/main/resources/.properties 
+
+*.properties
+
+08-ajustes-finais-no-backend\.pdf
